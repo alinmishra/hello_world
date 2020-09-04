@@ -1,1 +1,1 @@
-This code states hello world code
+This repo is about hello world code
